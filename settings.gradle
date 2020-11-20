@@ -1,0 +1,4 @@
+include ':lazyfragment'
+include  'DiffUtils'
+include ':app'
+rootProject.name = "Car"
